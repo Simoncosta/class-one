@@ -35,8 +35,8 @@ npm run dev
 
 ## Explicação do Projeto
 Projeto voltado para explicação de:
-..* Componentes
-..* Propriedades
-..* Children
-..* Rest
-..* Bônus (Chakra UI) [Chakra UI](https://chakra-ui.com/)
+* Componentes
+* Propriedades
+* Children
+* Rest
+* Bônus (Chakra UI) [Chakra UI](https://chakra-ui.com/)
